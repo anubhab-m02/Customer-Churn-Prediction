@@ -21,7 +21,7 @@ with open('scaler.pkl', 'rb') as file:
 
 
 ## streamlit app
-st.title('Customer Churn Predictor')
+st.title('Customer Attrition Analyzer')
 st.write("""
 This application predicts the likelihood of customer churn based on various input features.
 Fill in the details in the sidebar to get the prediction.

@@ -1,4 +1,4 @@
-# Customer Churn Predictor
+# Customer Attrition Analyzer
 
 ## Overview
 This project aims to predict customer churn using a neural network model built with TensorFlow and Keras. The application allows users to input customer data and receive a prediction on the likelihood of churn.
