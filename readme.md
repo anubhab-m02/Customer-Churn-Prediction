@@ -56,6 +56,9 @@ The model is trained using a dataset of customer information. The training proce
 - Model architecture definition.
 - Training with early stopping and TensorBoard for monitoring.
 
+## Deployed Application
+You can access the deployed application at the following link: [Customer Attrition Analyzer](https://customer-attrition-analyzer.streamlit.app/)
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
