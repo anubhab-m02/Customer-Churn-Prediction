@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/anubhab-m02/customer-churn-prediction.git
    cd customer-churn-prediction
    ```
 
